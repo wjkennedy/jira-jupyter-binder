@@ -4,7 +4,7 @@ These notebooks were automatically generated using the 'p2j' utility: https://py
 
 > "Convert your Python source code to Jupyter notebook with zero intervention."
 
-The examples are from the Atlassian Python API repo: https://github.com/atlassian-api/atlassian-python-api
+The examples are from an unofficial Atlassian Python API repo: https://github.com/atlassian-api/atlassian-python-api
 
 - jira
 - confluence
