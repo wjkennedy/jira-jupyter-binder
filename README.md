@@ -14,7 +14,7 @@ The examples are from the Atlassian Python API repo: https://github.com/atlassia
 
 # Quick Start
 
-Binder link for this repo: 
+Binder link for this repo: https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fwjkennedy%2Fjira-jupyter-binder/HEAD
 
 > Have a repository full of Jupyter notebooks? With Binder, open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
 
